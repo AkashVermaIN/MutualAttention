@@ -3,4 +3,4 @@ The public code repository for the paper Mutual Attention is All You Need: Recip
 
 Results/weights upload is in progress.
 
-All additional files along with a working GUI will be made available upon acceptance of the paper.
+All additional files along with a working GUI and a complete guide to implement everything will be made available upon acceptance of the paper.
